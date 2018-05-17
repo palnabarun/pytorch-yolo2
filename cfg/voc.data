@@ -1,4 +1,4 @@
-train  = voc_train.txt
+train  = train.txt
 valid  = 2007_test.txt
 names = data/voc.names
 backup = backup
