@@ -394,7 +394,7 @@ def file_lines(thefilepath):
         if not buffer:
             break
         count += buffer.count('\n')
-    thefile.close( )
+    thefile.close()
     return count
 
 def get_image_size(fname):
